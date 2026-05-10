@@ -1,7 +1,8 @@
 # deterministic-wave-prime-prediction
 A deterministic approach to prime distribution using wave interference analysis. This repository contains the Predictive Sonar algorithm for proactive prime detection and spectral analysis of the 6n ± 1 progression.
 
-# Deterministic Wave Prime Prediction
+# A Deterministic Interference Wave Model for Prime Prediction
+
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -22,7 +23,7 @@ A deterministic interference wave model for prime number prediction based on the
 
 ### 📄 Full Research Paper
 The theoretical foundations, spectral analysis, and empirical verifications are available in the preprint:
-**"The Geometry of Silence: A Deterministic Wave Interference Model for Prime Distribution"**
+**"A Deterministic Interference Wave Model for Prime Prediction"**
 [Link to Document on Zenodo/ResearchGate]
 
 ---
