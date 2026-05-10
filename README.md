@@ -32,5 +32,19 @@ The theoretical foundations, spectral analysis, and empirical verifications are 
 * **`crown_1.py`** & **`crown_2.py`**: Scripts for 3D and 2D visualization of the 6n ± 1 progression, mapping the harmonic structure of the "Crown" logic.
 
 ---
+---
 
+## ⚖️ License & Commercial Terms
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** License.
+
+> [!IMPORTANT]
+> **Commercial use of this work**, including but not limited to integration into software products, cryptographic systems, financial models, or security applications, is **strictly prohibited** without explicit written permission from the author. 
+
+A separate commercial license is required for any production or business-related deployment.
+
+**For licensing inquiries, please contact:**
+**Stefka Georgieva** - [georgieva@vpr-research.eu](mailto:georgieva@vpr-research.eu)
+
+---
 
