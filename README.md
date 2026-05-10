@@ -4,7 +4,7 @@ A deterministic approach to prime distribution using wave interference analysis.
 # A Deterministic Interference Wave Model for Prime Prediction
 
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20112919-blue.svg)](https://doi.org/10.5281/zenodo.20112919)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Overview
@@ -24,7 +24,7 @@ A deterministic interference wave model for prime number prediction based on the
 ### 📄 Full Research Paper
 The theoretical foundations, spectral analysis, and empirical verifications are available in the preprint:
 **"A Deterministic Interference Wave Model for Prime Prediction"**
-[Link to Document on Zenodo/ResearchGate]
+[(https://doi.org/10.5281/zenodo.20112919)]
 
 ---
 
