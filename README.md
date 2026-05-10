@@ -57,4 +57,14 @@ A separate commercial license is required for any production or business-related
 **Stefka Georgieva** - [georgieva@vpr-research.eu](mailto:georgieva@vpr-research.eu)
 
 ---
+## 📚 Citation
 
+If you use this work, please cite:
+
+```bibtex
+@software{georgieva_wave_prime_2026,
+  author = {Georgieva, Stefka},
+  title = {Deterministic Wave Prime Prediction},
+  year = {2026},
+  url = {https://github.com/model-vpr/deterministic-wave-prime-prediction}
+}
