@@ -31,7 +31,11 @@ The theoretical foundations, spectral analysis, and empirical verifications are 
 ## 📂 Repository Structure & File Descriptions
 
 ### 1. Core Algorithms
-* **`evolutionary_simulation.py`**: The primary engine that simulates wave propagation. It shows how every integer emits waves and how the interference field evolves sequentially from source 5 to N.
+* **`evolutionary_simulation.py`**: The primary engine of the IWM. It simulates wave 
+propagation **without using division operations** - instead, it tracks scheduled wave 
+impacts in a registry. A number is identified as prime when no waves are scheduled 
+to arrive (Zero Wave Density, Φ = 0). The interference field evolves sequentially, 
+with every new emitter projecting waves to future coordinates.
 * **`targeted_pulse_predictor.py`**: Focuses on specific coordinates to verify prime/composite 
 status without full field simulation. This script is designed for **educational and validation purposes** - it demonstrates the core IWM principle: a prime number has zero wave amplitude 
 (Φ = 0). While mathematically equivalent to checking divisibility, the interpretation as 
