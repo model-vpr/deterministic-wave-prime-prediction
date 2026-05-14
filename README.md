@@ -32,7 +32,10 @@ The theoretical foundations, spectral analysis, and empirical verifications are 
 
 ### 1. Core Algorithms
 * **`evolutionary_simulation.py`**: The primary engine that simulates wave propagation. It shows how every integer emits waves and how the interference field evolves sequentially from source 5 to N.
-* **`targeted_pulse_predictor.py`**: An optimized version of the algorithm designed for high-speed prediction. It focuses on specific coordinates to verify prime/composite status without full field simulation.
+* **`targeted_pulse_predictor.py`**: Focuses on specific coordinates to verify prime/composite 
+status without full field simulation. This script is designed for **educational and validation purposes** - it demonstrates the core IWM principle: a prime number has zero wave amplitude 
+(Φ = 0). While mathematically equivalent to checking divisibility, the interpretation as 
+"wave interference" provides a different conceptual understanding.
 
 ### 2. Analysis & Diagnostics
 * **`twins_sonar.py`**: Specifically designed to scan for Twin Primes (Zero-Impact adjacency) and identify **Peak Interference Density** points (Maximum Resonance) in the number line.
