@@ -12,6 +12,27 @@ This repository contains the official implementation of the **Interference Wave 
 
 Instead of traditional trial division or probabilistic methods, this model identifies primes as **Zero-Density Nodes** ($\Phi(x) = 0$) within the 6n ± 1 harmonic progression (The Crown).
 
+## The Core Logic: Why Primes Are Not Random
+
+Let `C` be the Crown: `{6n ± 1 | n ≥ 1}` (deterministic arithmetic progression)
+
+Let `Q ⊂ C` be the set of composite numbers in the Crown, fully described by three product types:
+
+- **Type I:** `(6a + 1)(6b + 1)`
+- **Type II:** `(6a - 1)(6b - 1)`  
+- **Type III:** `(6a - 1)(6b + 1)`
+
+Then the primes greater than 3 are exactly:
+
+**`P = C \ Q`**
+
+Since both `C` (deterministic progression) and `Q` (deterministic composite structure) are 
+non-random, their difference `P` cannot be random either. 
+
+**Randomness cannot emerge from the difference of two deterministic sets.**
+
+Therefore, prime distribution is inherently deterministic - not stochastic.
+
 # Deterministic Wave Prime Prediction
 
 A deterministic interference wave model for prime number prediction based on the 6n ± 1 Crown. Achieves 100% accuracy with zero false positives.
